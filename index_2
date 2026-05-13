@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Public Opinion Maps</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 60px auto; }
+    h1 { font-size: 1.4em; margin-bottom: 30px; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 12px 0; }
+    a { color: #2166ac; text-decoration: none; font-size: 1.1em; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Public Opinion on WLTP — Interactive Maps</h1>
+  <ul>
+    <li><a href="Countries_HTML_2.html">Country Availability</a></li>
+    <li><a href="Diesel_HTML_2.html">Diesel Share</a></li>
+    <li><a href="Sentiment_HTML_2.html">Sentiment</a></li>
+    <li><a href="Sentiment_weighted_HTML_2.html">SMR Weighted Sentiment</a></li>
+  </ul>
+</body>
+</html>
